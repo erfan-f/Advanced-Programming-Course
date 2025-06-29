@@ -1,0 +1,7 @@
+name,damage,health,cooldown,hit_rate,speed,price
+sunflower,0,40,4,20,0,50
+peashooter,5,40,4,5,7,100
+snow_peashooter,8,30,5,5,5,175
+walnut,0,100,20,0,0,50
+melonPult,10,40,6,5,5,250
+kernelPult,10,40,6,5,5,200

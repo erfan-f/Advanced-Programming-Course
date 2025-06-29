@@ -1,0 +1,3 @@
+type,damage,health,hit rate,speed,freeze_time
+regular,10,50,5,0.5,5
+gargantuar,20,50,5,0.2,5
