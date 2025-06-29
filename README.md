@@ -1,6 +1,6 @@
 # Advanced Programming - Spring 2024
 
-This repository contains the computer assignments and project materials for the **Advanced Programming** course offered in Spring 2024. The course is designed to develop students' skills in structured and object-oriented programming using C++. Each assignment introduces key programming concepts through practical tasks.
+This repository contains the computer assignments and project materials for the **Advanced Programming** course offered in Spring 2024.
 
 ## Computer Assignments
 
